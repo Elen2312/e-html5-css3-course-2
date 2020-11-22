@@ -1,0 +1,47 @@
+$width: 1272px;
+$color-w: #FFFFFF;
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: $width;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  background: #445161;
+  justify-content: space-between;
+
+  &__heading {
+    color: $color-w;
+    font-size: 60px;
+    font-weight: 400;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 25px 0 0 50px;
+  }
+
+  &__photo {
+    margin: 27px 51px 34px 0;
+  }
+}
+
+.header__contents {
+  margin: 40px 0 19px 71px;
+
+  & li {
+    list-style-type: none;
+    list-style-image: url("images/marker.png");
+    line-height: 30px;
+
+    & a {
+      font-size: 20px;
+      color: $color-w;
+      text-decoration: none;
+    }
+  }
+}

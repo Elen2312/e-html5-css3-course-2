@@ -1,0 +1,143 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 1272px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  background: #445161;
+  justify-content: space-between;
+}
+.header__heading {
+  color: #FFFFFF;
+  font-size: 60px;
+  font-weight: 400;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  margin: 25px 0 0 50px;
+}
+.header__photo {
+  margin: 27px 51px 34px 0;
+}
+
+.header__contents {
+  margin: 40px 0 19px 71px;
+}
+.header__contents li {
+  list-style-type: none;
+  list-style-image: url("images/marker.png");
+  line-height: 30px;
+}
+.header__contents li a {
+  font-size: 20px;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+p {
+  font-size: 16px;
+  line-height: 24px;
+  color: #333333;
+}
+
+.main__product-description {
+  display: flex;
+}
+.main__product-description div {
+  margin: 45px 0 0 50px;
+}
+.main__product-description_title {
+  font-size: 30px;
+  color: #445161;
+}
+.main__product-description p {
+  width: 646px;
+  margin-top: 17px;
+}
+
+.main__product-description a {
+  margin: 45px 50px 50px 96px;
+}
+
+.main__pluses-product {
+  background: #F5F5F5;
+  padding: 25px 50px 48px;
+}
+
+.main__pluses-product h2 {
+  font-size: 30px;
+  color: #445161;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.main__pluses-product_pluses {
+  display: flex;
+  justify-content: space-around;
+}
+.main__pluses-product_pluses div {
+  width: 568px;
+  margin-top: 29px;
+}
+.main__pluses-product_pluses div details {
+  position: relative;
+}
+
+summary {
+  outline: none;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary:before {
+  content: "";
+  left: -28px;
+  top: -7px;
+  background: url("images/marker-plus.png") no-repeat 50% 50%/1em 1em;
+  margin-right: 5px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+
+.main__screenshots {
+  padding: 25px 42px 0 50px;
+}
+.main__screenshots h2 {
+  font-size: 30px;
+  color: #445161;
+  margin: 0 auto;
+  text-align: center;
+}
+.main__screenshots p {
+  margin-top: 13px;
+}
+
+.main__screenshots_description {
+  margin-top: 18px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.main__screenshots_description article {
+  display: flex;
+  width: 574px;
+  margin-top: 27px;
+}
+.main__screenshots_description article:nth-child(2n) {
+  margin-left: 30px;
+}
+.main__screenshots_description article div {
+  margin-left: 14px;
+  align-items: start;
+}
+
+/*# sourceMappingURL=style.css.map */

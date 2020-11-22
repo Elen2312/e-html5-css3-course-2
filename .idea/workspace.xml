@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8982f12-32e2-474c-b3aa-188fdbce246f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/email-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/header-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icq-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/marker-plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/phone-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/screenshots-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skype-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/userpic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kbO56CxZUH7HXLSifrN0yfbkAV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/npm/sass.cmd" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8982f12-32e2-474c-b3aa-188fdbce246f" name="Default Changelist" comment="" />
+      <created>1605965638253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605965638253</updated>
+      <workItem from="1605965639481" duration="11900000" />
+      <workItem from="1605978280495" duration="16413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="47" key="#Inspections" timestamp="1605980578218">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="309" y="47" key="#Inspections/0.0.1366.738@0.0.1366.738" timestamp="1605980578218" />
+    <state x="352" y="59" width="662" height="679" key="EditFileWatcherDialog" timestamp="1605978923270">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="352" y="59" width="662" height="679" key="EditFileWatcherDialog/0.0.1366.738@0.0.1366.738" timestamp="1605978923270" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1605978801256">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1605978801256" />
+    <state x="184" y="13" key="SettingsEditor" timestamp="1605978924355">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1605978924355" />
+  </component>
+</project>
