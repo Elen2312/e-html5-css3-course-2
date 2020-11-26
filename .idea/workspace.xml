@@ -10,16 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8982f12-32e2-474c-b3aa-188fdbce246f" name="Default Changelist" comment="made reviews">
-      <change afterPath="$PROJECT_DIR$/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="d8982f12-32e2-474c-b3aa-188fdbce246f" name="Default Changelist" comment="page completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +68,7 @@
       <workItem from="1605978280495" duration="16857000" />
       <workItem from="1606036633955" duration="124000" />
       <workItem from="1606137205254" duration="6911000" />
-      <workItem from="1606400687625" duration="10231000" />
+      <workItem from="1606400687625" duration="12532000" />
     </task>
     <task id="LOCAL-00001" summary="getting started layout№2">
       <created>1606004054548</created>
@@ -88,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606152107741</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="page completed">
+      <created>1606411091959</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606411091959</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,13 +112,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="getting started layout№2" />
     <MESSAGE value="made reviews" />
-    <option name="LAST_COMMIT_MESSAGE" value="made reviews" />
+    <MESSAGE value="page completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="page completed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="309" y="47" key="#Inspections" timestamp="1606402455585">
+    <state x="309" y="47" key="#Inspections" timestamp="1606413136202">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="309" y="47" key="#Inspections/0.0.1366.738@0.0.1366.738" timestamp="1606402455585" />
+    <state x="309" y="47" key="#Inspections/0.0.1366.738@0.0.1366.738" timestamp="1606413136202" />
     <state x="352" y="59" width="662" height="679" key="EditFileWatcherDialog" timestamp="1605978923270">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -124,21 +128,21 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1606157288222" />
-    <state x="544" y="281" key="Github.Dialog.Accounts.Choose" timestamp="1606152128605">
+    <state x="544" y="281" key="Github.Dialog.Accounts.Choose" timestamp="1606411112956">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="544" y="281" key="Github.Dialog.Accounts.Choose/0.0.1366.738@0.0.1366.738" timestamp="1606152128605" />
+    <state x="544" y="281" key="Github.Dialog.Accounts.Choose/0.0.1366.738@0.0.1366.738" timestamp="1606411112956" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1606402357440">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1606402357440" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1606152119459">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1606411106709">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1606152119459" />
-    <state x="339" y="165" key="run.anything.popup" timestamp="1606402299487">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1606411106709" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1606412125935">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1606402299487" />
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1606412125935" />
   </component>
 </project>

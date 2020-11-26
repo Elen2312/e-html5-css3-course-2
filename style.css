@@ -297,29 +297,29 @@ summary:before {
   color: #FFFFFF;
   margin-bottom: 25px;
 }
-.footer__contacts div {
+.footer__contacts_content {
   display: flex;
   justify-content: center;
 }
 
-.footer__contacts__form {
+.footer__contacts_content__form {
   display: flex;
   flex-direction: column;
   width: 424px;
 }
-.footer__contacts__form input,
-.footer__contacts__form textarea {
+.footer__contacts_content__form input,
+.footer__contacts_content__form textarea {
   width: 424px;
   padding: 12px;
   outline: none;
   margin-top: 18px;
   border-radius: 5px;
 }
-.footer__contacts__form textarea {
+.footer__contacts_content__form textarea {
   height: 173px;
 }
 
-.footer__contacts__form__buttton {
+.footer__contacts_content__form__buttton {
   width: 141.3333333333px;
   color: #445161;
   font-weight: bold;
@@ -331,15 +331,16 @@ summary:before {
   align-self: center;
 }
 
-.footer__contacts__link {
+.footer__contacts_content__link {
   flex-direction: column;
   margin-left: 49px;
+  margin-top: 18px;
 }
 
-.footer__contacts__link_url {
+.footer__contacts_content__link_url {
   flex-direction: column;
 }
-.footer__contacts__link_url a {
+.footer__contacts_content__link_url a {
   text-decoration: none;
   font-size: 16px;
   color: #FFFFFF;
@@ -347,10 +348,10 @@ summary:before {
   line-height: 50px;
 }
 
-.footer__contacts__link_icons {
+.footer__contacts_content__link_icons {
   margin-top: 47px;
 }
-.footer__contacts__link_icons a:nth-child(n+2) {
+.footer__contacts_content__link_icons a:nth-child(n+2) {
   margin-left: 3px;
 }
 

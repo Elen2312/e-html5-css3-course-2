@@ -16,13 +16,13 @@
     margin-bottom: 25px;
   }
 
-  div {
+  &_content {
     display: flex;
     justify-content: center;
   }
 }
 
-.footer__contacts__form {
+.footer__contacts_content__form {
   display: flex;
   flex-direction: column;
   width: $width/3;
@@ -41,7 +41,7 @@
   }
 }
 
-.footer__contacts__form__buttton {
+.footer__contacts_content__form__buttton {
   width: $width/9;
   color: $color-blue;
   font-weight: bold;
@@ -53,12 +53,13 @@
   align-self: center;
 }
 
-.footer__contacts__link {
+.footer__contacts_content__link {
   flex-direction: column;
   margin-left: 49px;
+  margin-top: 18px;
 }
 
-.footer__contacts__link_url {
+.footer__contacts_content__link_url {
   flex-direction: column;
 
   a {
@@ -70,17 +71,13 @@
   }
 }
 
-.footer__contacts__link_icons {
+.footer__contacts_content__link_icons {
   margin-top: 47px;
 
   a:nth-child(n+2) {
     margin-left: 3px;
   }
 }
-
-
-
-
 
 .footer__copy {
   font-size: 12px;
