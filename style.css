@@ -5,6 +5,16 @@
   box-sizing: border-box;
 }
 
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 16px;
+  line-height: 24px;
+  color: #333333;
+}
+
 .container {
   width: 1272px;
   margin: 0 auto;
@@ -40,10 +50,8 @@
   text-decoration: none;
 }
 
-p {
-  font-size: 16px;
-  line-height: 24px;
-  color: #333333;
+.header__contents li:hover {
+  text-shadow: 0 0 9px #000000;
 }
 
 .main__product-description {
@@ -65,7 +73,9 @@ p {
 }
 
 .main__product-description__video {
+  height: 247px;
   margin: 45px 50px 50px 96px;
+  background: #445161;
 }
 
 .main__pluses-product {
@@ -341,18 +351,49 @@ summary:before {
   flex-direction: column;
 }
 .footer__contacts_content__link_url a {
-  text-decoration: none;
   font-size: 16px;
   color: #FFFFFF;
   margin-left: 7px;
   line-height: 50px;
 }
+.footer__contacts_content__link_url a:hover {
+  text-shadow: 0 0 9px #000000;
+}
 
 .footer__contacts_content__link_icons {
   margin-top: 47px;
 }
+.footer__contacts_content__link_icons .fa {
+  width: 45px;
+  height: 45px;
+  background: #FFFFFF;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 45px;
+  color: #445161;
+}
 .footer__contacts_content__link_icons a:nth-child(n+2) {
   margin-left: 3px;
+}
+
+.fa-twitter:hover {
+  background: #00acee;
+  color: #FFFFFF;
+}
+
+.fa-vk:hover {
+  background: #597da3;
+  color: #FFFFFF;
+}
+
+.fa-google:hover {
+  background: #d34836;
+  color: #FFFFFF;
+}
+
+.fa-facebook-f:hover {
+  background: #3b5998;
+  color: #FFFFFF;
 }
 
 .footer__copy {

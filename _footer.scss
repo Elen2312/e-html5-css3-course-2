@@ -63,21 +63,55 @@
   flex-direction: column;
 
   a {
-    text-decoration: none;
     font-size: 16px;
     color: $color-white;
     margin-left: 7px;
     line-height: 50px;
+  }
+
+  a:hover {
+   text-shadow: 0 0 9px $color-black;
   }
 }
 
 .footer__contacts_content__link_icons {
   margin-top: 47px;
 
+  .fa {
+    width: 45px;
+    height: 45px;
+    background: $color-white;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 45px;
+    color: $color-blue;
+  }
+
   a:nth-child(n+2) {
     margin-left: 3px;
   }
 }
+
+.fa-twitter:hover {
+  background: #00acee;
+  color: $color-white;
+}
+
+.fa-vk:hover {
+  background: #597da3;
+  color: $color-white;
+}
+
+.fa-google:hover {
+  background: #d34836;
+  color: $color-white;
+}
+
+.fa-facebook-f:hover {
+  background: #3b5998;
+  color: $color-white;
+}
+
 
 .footer__copy {
   font-size: 12px;
@@ -87,3 +121,4 @@
   align-self: center;
   margin: 12px auto;
 }
+

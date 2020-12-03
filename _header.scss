@@ -7,7 +7,7 @@
 
 .header {
   display: flex;
-  background: #445161;
+  background: $color-blue;
   justify-content: space-between;
 
   &__heading {
@@ -37,4 +37,8 @@
       text-decoration: none;
     }
   }
+}
+
+.header__contents li:hover {
+text-shadow: 0 0 9px $color-black;
 }

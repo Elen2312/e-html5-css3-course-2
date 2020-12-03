@@ -10,12 +10,76 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8982f12-32e2-474c-b3aa-188fdbce246f" name="Default Changelist" comment="page completed">
+    <list default="true" id="d8982f12-32e2-474c-b3aa-188fdbce246f" name="Default Changelist" comment="page completed version 2">
+      <change afterPath="$PROJECT_DIR$/fonts/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/css/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/css/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/_shims.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/brands.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/brands.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/fontawesome.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/fontawesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/regular.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/regular.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/solid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/solid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/v4-shims.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/scss/v4-shims.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +115,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../html_css_course_2_hw1" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/npm/sass.cmd" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -65,33 +129,9 @@
       <option name="presentableId" value="Default" />
       <updated>1605965638253</updated>
       <workItem from="1605965639481" duration="11900000" />
-      <workItem from="1605978280495" duration="16857000" />
-      <workItem from="1606036633955" duration="124000" />
-      <workItem from="1606137205254" duration="6911000" />
-      <workItem from="1606400687625" duration="12532000" />
+      <workItem from="1605978280495" duration="16413000" />
+      <workItem from="1607009807679" duration="3363000" />
     </task>
-    <task id="LOCAL-00001" summary="getting started layout№2">
-      <created>1606004054548</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1606004054548</updated>
-    </task>
-    <task id="LOCAL-00002" summary="made reviews">
-      <created>1606152107741</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1606152107741</updated>
-    </task>
-    <task id="LOCAL-00003" summary="page completed">
-      <created>1606411091959</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1606411091959</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,40 +149,30 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="getting started layout№2" />
-    <MESSAGE value="made reviews" />
-    <MESSAGE value="page completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="page completed" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="309" y="47" key="#Inspections" timestamp="1606413136202">
+    <state x="309" y="47" key="#Inspections" timestamp="1605980578218">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="309" y="47" key="#Inspections/0.0.1366.738@0.0.1366.738" timestamp="1606413136202" />
+    <state x="309" y="47" key="#Inspections/0.0.1366.738@0.0.1366.738" timestamp="1605980578218" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607010194488">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1607010194488" />
     <state x="352" y="59" width="662" height="679" key="EditFileWatcherDialog" timestamp="1605978923270">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="352" y="59" width="662" height="679" key="EditFileWatcherDialog/0.0.1366.738@0.0.1366.738" timestamp="1605978923270" />
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1606157288222">
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1605978801256">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1606157288222" />
-    <state x="544" y="281" key="Github.Dialog.Accounts.Choose" timestamp="1606411112956">
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1605978801256" />
+    <state x="184" y="13" key="SettingsEditor" timestamp="1605978924355">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="544" y="281" key="Github.Dialog.Accounts.Choose/0.0.1366.738@0.0.1366.738" timestamp="1606411112956" />
-    <state x="184" y="13" key="SettingsEditor" timestamp="1606402357440">
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1605978924355" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1606753828670">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1606402357440" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1606411106709">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1606411106709" />
-    <state x="339" y="165" key="run.anything.popup" timestamp="1606412125935">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1606412125935" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1606753828670" />
   </component>
 </project>

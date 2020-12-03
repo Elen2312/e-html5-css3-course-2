@@ -1,9 +1,3 @@
-p {
-  font-size: 16px;
-  line-height: 24px;
-  color: $color-gray;
-}
-
 .main__product-description {
   display: flex;
 }
@@ -23,7 +17,9 @@ p {
 }
 
 .main__product-description__video {
+  height: 247px;
   margin: 45px 50px 50px 96px;
+  background: $color-blue;
 }
 
 .main__pluses-product {
