@@ -1,11 +1,4 @@
-$width: 1272px;
-$color-w: #FFFFFF;
 
-* {
-  margin: 0;
-  padding: 0;
-  font-family: Arial, sans-serif;
-}
 
 .container {
   width: $width;
@@ -14,11 +7,11 @@ $color-w: #FFFFFF;
 
 .header {
   display: flex;
-  background: #445161;
+  background: $color-blue;
   justify-content: space-between;
 
   &__heading {
-    color: $color-w;
+    color: $color-white;
     font-size: 60px;
     font-weight: 400;
     text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
@@ -40,8 +33,12 @@ $color-w: #FFFFFF;
 
     & a {
       font-size: 20px;
-      color: $color-w;
+      color: $color-white;
       text-decoration: none;
     }
   }
+}
+
+.header__contents li:hover {
+text-shadow: 0 0 9px $color-black;
 }

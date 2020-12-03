@@ -1,0 +1,124 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer__contacts {
+  background: $color-blue;
+  padding-top: 25px;
+  padding-bottom: 48px;
+  display: flex;
+  flex-direction: column;
+
+  &__title {
+    @include title;
+    color: $color-white;
+    margin-bottom: 25px;
+  }
+
+  &_content {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.footer__contacts_content__form {
+  display: flex;
+  flex-direction: column;
+  width: $width/3;
+
+  input,
+  textarea {
+    width: $width/3;
+    padding: 12px;
+    outline: none;
+    margin-top: 18px;
+    border-radius: 5px;
+  }
+
+  textarea {
+    height: 173px;
+  }
+}
+
+.footer__contacts_content__form__buttton {
+  width: $width/9;
+  color: $color-blue;
+  font-weight: bold;
+  font-size: 16px;
+  text-transform: uppercase;
+  padding-top: 12px;
+  padding-bottom: 7px;
+  margin-top: 18px;
+  align-self: center;
+}
+
+.footer__contacts_content__link {
+  flex-direction: column;
+  margin-left: 49px;
+  margin-top: 18px;
+}
+
+.footer__contacts_content__link_url {
+  flex-direction: column;
+
+  a {
+    font-size: 16px;
+    color: $color-white;
+    margin-left: 7px;
+    line-height: 50px;
+  }
+
+  a:hover {
+   text-shadow: 0 0 9px $color-black;
+  }
+}
+
+.footer__contacts_content__link_icons {
+  margin-top: 47px;
+
+  .fa {
+    width: 45px;
+    height: 45px;
+    background: $color-white;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 45px;
+    color: $color-blue;
+  }
+
+  a:nth-child(n+2) {
+    margin-left: 3px;
+  }
+}
+
+.fa-twitter:hover {
+  background: #00acee;
+  color: $color-white;
+}
+
+.fa-vk:hover {
+  background: #597da3;
+  color: $color-white;
+}
+
+.fa-google:hover {
+  background: #d34836;
+  color: $color-white;
+}
+
+.fa-facebook-f:hover {
+  background: #3b5998;
+  color: $color-white;
+}
+
+
+.footer__copy {
+  font-size: 12px;
+  color: $color-blue;
+  letter-spacing: 0.3px;
+  display: flex;
+  align-self: center;
+  margin: 12px auto;
+}
+

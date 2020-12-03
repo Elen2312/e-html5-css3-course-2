@@ -10,28 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8982f12-32e2-474c-b3aa-188fdbce246f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/email-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/google.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/header-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icq-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/marker-plus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/phone-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/screenshots-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/skype-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/userpic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/video.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/vk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+    <list default="true" id="d8982f12-32e2-474c-b3aa-188fdbce246f" name="Default Changelist" comment="crating video page3">
+      <change beforePath="$PROJECT_DIR$/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/video.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/video.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video.scss" beforeDir="false" afterPath="$PROJECT_DIR$/video.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +28,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kbO56CxZUH7HXLSifrN0yfbkAV" />
@@ -77,7 +64,30 @@
       <updated>1605965638253</updated>
       <workItem from="1605965639481" duration="11900000" />
       <workItem from="1605978280495" duration="16413000" />
+      <workItem from="1607009807679" duration="4794000" />
     </task>
+    <task id="LOCAL-00001" summary="crating video page">
+      <created>1607013559466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607013559466</updated>
+    </task>
+    <task id="LOCAL-00002" summary="crating video page2">
+      <created>1607013996521</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607013996521</updated>
+    </task>
+    <task id="LOCAL-00003" summary="crating video page3">
+      <created>1607014559686</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607014559686</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,11 +105,21 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="crating video page" />
+    <MESSAGE value="crating video page2" />
+    <MESSAGE value="crating video page3" />
+    <option name="LAST_COMMIT_MESSAGE" value="crating video page3" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="309" y="47" key="#Inspections" timestamp="1605980578218">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="309" y="47" key="#Inspections/0.0.1366.738@0.0.1366.738" timestamp="1605980578218" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607010194488">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1607010194488" />
     <state x="352" y="59" width="662" height="679" key="EditFileWatcherDialog" timestamp="1605978923270">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -108,9 +128,21 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1605978801256" />
+    <state x="544" y="281" key="Github.Dialog.Accounts.Choose" timestamp="1607014569309">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="544" y="281" key="Github.Dialog.Accounts.Choose/0.0.1366.738@0.0.1366.738" timestamp="1607014569309" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1605978924355">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1605978924355" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1607014565948">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1607014565948" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1606753828670">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1606753828670" />
   </component>
 </project>

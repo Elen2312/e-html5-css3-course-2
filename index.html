@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
 	<title>Title</title>
 	<link rel="stylesheet" href="style.css">
+	<script src="https://use.fontawesome.com/c2667ccae3.js"></script>
 </head>
 <body>
 <div class="container">
@@ -12,30 +13,31 @@
 			<h1 class="header__heading">Product name</h1>
 			<nav class="header__contents">
 				<ul>
-					<li><a href="">Put on this page information about your product</a></li>
-					<li><a href="">A detailed description of your product</a></li>
-					<li><a href="">Tell us about the advantages and merits</a></li>
-					<li><a href="">Associate the page with the payment system</a></li>
+					<li><a href="#information">Put on this page information about your product</a></li>
+					<li><a href="#description">A detailed description of your product</a></li>
+					<li><a href="#advantages">Tell us about the advantages and merits</a></li>
+					<li><a href="#payment system">Associate the page with the payment system</a></li>
 				</ul>
 			</nav>
 		</div>
 		<a href="#" class="header__photo"><img src="images/header-img.png" alt=""></a>
 	</header>
 	<main>
-		<section class="main__product-description">
-			<div>
-				<h2 class="main__product-description_title">About your product</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis facilis fuga, illo&nbsp;at. Natus
+		<section id="information" class="main__product-description">
+			<div class="main__product-description_block">
+				<h2 class="main__product-description_block_title">About your product</h2>
+				<p class="main__product-description_block__text">Lorem ipsum dolor sit amet, consectetur adipisicing
+					elit. Nobis facilis fuga, illo&nbsp;at. Natus
 					eos, eligendi illum rerum omnis porro&nbsp;ex, magni, explicabo veniam incidunt in&nbsp;quam
 					sapiente ut&nbsp;ipsum. <br>
 					<br>Pariatur iure ab&nbsp;sunt nesciunt, quibusdam odio iste cumque itaque, ipsa vel exercitationem
 					ullam quos aut nostrum cupiditate fuga quaerat quam animi dolores. Sequi itaque, unde perferendis
 					nemo debitis dolor.</p>
 			</div>
-			<a href="#"><img src="images/video.png" alt=""></a>
+			<video src="video/video.mp4" class="main__product-description__video" controls></video>
 		</section>
-		<section class="main__pluses-product">
-			<h2>Dignity and pluses product</h2>
+		<section id="advantages" class="main__pluses-product">
+			<h2 class="main__pluses-product__title">Dignity and pluses product</h2>
 			<div class="main__pluses-product_pluses">
 				<div>
 					<details>
@@ -86,8 +88,8 @@
 			</div>
 
 		</section>
-		<section class="main__screenshots">
-			<h2>Screenshots</h2>
+		<section id="description" class="main__screenshots">
+			<h2 class="main__screenshots__title">Screenshots</h2>
 			<div class="main__screenshots_description">
 				<article>
 					<a href="#"><img src="images/screenshots-image.jpg" alt=""></a>
@@ -135,115 +137,139 @@
 				</article>
 			</div>
 		</section>
-		<article>
-			<h2>Reviews</h2>
-			<div>
+		<article class="main__reviews">
+			<h2 class="main__reviews__title">Reviews</h2>
+			<div class="main__reviews__feedback-block">
 				<article>
 					<a href="#"><img src="images/userpic.png" alt=""></a>
-					<p>Porro officia cumque sint deleniti nemo facere rem vitae odit inventore cum odio, iste quia
-						doloribus autem aperiam nulla ea&nbsp;neque reprehenderit. Libero doloribus, possimus officiis
-						sapiente necessitatibus commodi consectetur?</p>
-					<span>Lourens S.</span>
+					<div>
+						<p>Porro officia cumque sint deleniti nemo facere rem vitae odit inventore cum odio, iste quia
+							doloribus autem aperiam nulla ea&nbsp;neque reprehenderit. Libero doloribus, possimus
+							officiis
+							sapiente necessitatibus commodi consectetur?</p>
+						<span>Lourens S.</span>
+					</div>
 				</article>
 				<article>
 					<a href="#"><img src="images/userpic.png" alt=""></a>
-					<p>Porro officia cumque sint deleniti nemo facere rem vitae odit inventore cum odio, iste quia
-						doloribus autem aperiam nulla ea&nbsp;neque reprehenderit. Libero doloribus, possimus officiis
-						sapiente necessitatibus commodi consectetur?</p>
-					<span>Lourens S.</span>
-				</article>
-			</div>
-			<div>
-				<article>
-					<a href="#"><img src="images/userpic.png" alt=""></a>
-					<p>Porro officia cumque sint deleniti nemo facere rem vitae odit inventore cum odio, iste quia
-						doloribus autem aperiam nulla ea&nbsp;neque reprehenderit. Libero doloribus, possimus officiis
-						sapiente necessitatibus commodi consectetur?</p>
-					<span>Lourens S.</span>
+					<div>
+						<p>Porro officia cumque sint deleniti nemo facere rem vitae odit inventore cum odio, iste quia
+							doloribus autem aperiam nulla ea&nbsp;neque reprehenderit. Libero doloribus, possimus
+							officiis
+							sapiente necessitatibus commodi consectetur?</p>
+						<span>Lourens S.</span>
+					</div>
 				</article>
 				<article>
 					<a href="#"><img src="images/userpic.png" alt=""></a>
-					<p>Porro officia cumque sint deleniti nemo facere rem vitae odit inventore cum odio, iste quia
-						doloribus autem aperiam nulla ea&nbsp;neque reprehenderit. Libero doloribus, possimus officiis
-						sapiente necessitatibus commodi consectetur?</p>
-					<span>Lourens S.</span>
+					<div>
+						<p>Porro officia cumque sint deleniti nemo facere rem vitae odit inventore cum odio, iste quia
+							doloribus autem aperiam nulla ea&nbsp;neque reprehenderit. Libero doloribus, possimus
+							officiis
+							sapiente necessitatibus commodi consectetur?</p>
+						<span>Lourens S.</span>
+					</div>
+				</article>
+				<article>
+					<a href="#"><img src="images/userpic.png" alt=""></a>
+					<div>
+						<p>Porro officia cumque sint deleniti nemo facere rem vitae odit inventore cum odio, iste quia
+							doloribus autem aperiam nulla ea&nbsp;neque reprehenderit. Libero doloribus, possimus
+							officiis
+							sapiente necessitatibus commodi consectetur?</p>
+						<span>Lourens S.</span>
+					</div>
 				</article>
 			</div>
 		</article>
-		<section>
-			<h2>Buy it now</h2>
-			<div>
-				<h4>Standart</h4>
-				<span>$100</span>
-				<ol>
-					<li>Porro officia cumque sint deleniti;</li>
-					<li>Temo facere rem vitae odit;</li>
-					<li>Cum odio, iste quia doloribus autem;</li>
-					<li>Aperiam nulla ea neque.</li>
-				</ol>
-				<a href="#">BUY</a>
-			</div>
-			<div>
-				<h4>Premium</h4>
-				<span>$150</span>
-				<ol>
-					<li>Porro officia cumque sint deleniti;</li>
-					<li>Temo facere rem vitae odit;</li>
-					<li>Cum odio, iste quia doloribus autem;</li>
-					<li>Aperiam nulla ea neque.</li>
-					<li>Porro officia cumque sint deleniti;</li>
-					<li>Temo facere rem vitae odit;</li>
-					<li>Cum odio, iste quia doloribus autem;</li>
-					<li>Aperiam nulla ea neque.</li>
-				</ol>
-				<a href="#">BUY</a>
-			</div>
-			<div>
-				<h4>Lux</h4>
-				<span>$200</span>
-				<ol>
-					<li>Porro officia cumque sint deleniti;</li>
-					<li>Temo facere rem vitae odit;</li>
-					<li>Cum odio, iste quia doloribus autem;</li>
-					<li>Aperiam nulla ea neque.</li>
-					<li>Porro officia cumque sint deleniti;</li>
-					<li>Temo facere rem vitae odit;</li>
-					<li>Cum odio, iste quia doloribus autem;</li>
-					<li>Aperiam nulla ea neque.</li>
-					<li>Porro officia cumque sint deleniti;</li>
-					<li>Temo facere rem vitae odit;</li>
-					<li>Cum odio, iste quia doloribus autem;</li>
-					<li>Aperiam nulla ea neque.</li>
-				</ol>
-				<a href="#">BUY</a>
+		<section id="payment system" class="main__buy">
+			<h2 class="main__buy__title">Buy it now</h2>
+			<div class="main__buy__variants">
+				<div>
+					<h4>Standart</h4>
+					<span>$100</span>
+					<ol>
+						<li>Porro officia cumque sint deleniti;</li>
+						<li>Temo facere rem vitae odit;</li>
+						<li>Cum odio, iste quia doloribus autem;</li>
+						<li>Aperiam nulla ea neque.</li>
+					</ol>
+					<a href="#">BUY</a>
+				</div>
+				<div>
+					<h4>Premium</h4>
+					<span>$150</span>
+					<ol>
+						<li>Porro officia cumque sint deleniti;</li>
+						<li>Temo facere rem vitae odit;</li>
+						<li>Cum odio, iste quia doloribus autem;</li>
+						<li>Aperiam nulla ea neque.</li>
+						<li>Porro officia cumque sint deleniti;</li>
+						<li>Temo facere rem vitae odit;</li>
+						<li>Cum odio, iste quia doloribus autem;</li>
+						<li>Aperiam nulla ea neque.</li>
+					</ol>
+					<a href="#">BUY</a>
+				</div>
+				<div>
+					<h4>Lux</h4>
+					<span>$200</span>
+					<ol>
+						<li>Porro officia cumque sint deleniti;</li>
+						<li>Temo facere rem vitae odit;</li>
+						<li>Cum odio, iste quia doloribus autem;</li>
+						<li>Aperiam nulla ea neque.</li>
+						<li>Porro officia cumque sint deleniti;</li>
+						<li>Temo facere rem vitae odit;</li>
+						<li>Cum odio, iste quia doloribus autem;</li>
+						<li>Aperiam nulla ea neque.</li>
+						<li>Porro officia cumque sint deleniti;</li>
+						<li>Temo facere rem vitae odit;</li>
+						<li>Cum odio, iste quia doloribus autem;</li>
+						<li>Aperiam nulla ea neque.</li>
+					</ol>
+					<a href="#">BUY</a>
+				</div>
 			</div>
 		</section>
 	</main>
-	<footer>
-		<div>
-			<h2>Contacts</h2>
-			<form action="#">
-				<input type="text" placeholder="Your name:">
-				<input type="email" placeholder="Your email:">
-				<textarea name="" placeholder="Your message:"></textarea>
-				<input type="submit" value="SEND">
-			</form>
-			<div>
-				<p><img src="images/skype-icon.png" alt=""><a href="skype:here_your_login_skype?call">here_your_login_skype</a>
-				</p>
-				<p><img src="images/icq-icon.png" alt=""><a href="icq:279679659">279679659</a></p>
-				<p><img src="images/email-icon.png" alt=""><a href="mailto:psdhtmlcss@mail.ru">psdhtmlcss@mail.ru</a>
-				</p>
-				<p><img src="images/phone-icon.png" alt=""><a href="tel:800045685555">80 00 4568 55 55</a></p>
-			</div>
-			<div>
-				<a href="https://twitter.com/?lang=ru"><img src="images/twitter.png" alt=""></a>
-				<a href="https://vk.com/"><img src="images/vk.png" alt=""></a>
-				<a href="https://www.google.com/intl/ru/account/about/"><img src="images/google.png" alt=""></a>
-				<a href="https://www.facebook.com/"><img src="images/facebook.png" alt=""></a>
+	<footer class="footer">
+		<div class="footer__contacts">
+			<h2 class="footer__contacts__title">Contacts</h2>
+			<div class="footer__contacts_content">
+				<form action="#" class="footer__contacts_content__form">
+					<input type="text" placeholder="Your name:">
+					<input type="email" placeholder="Your email:">
+					<textarea name="" placeholder="Your message:"></textarea>
+					<button class="footer__contacts_content__form__buttton">SEND</button>
+				</form>
+				<div class="footer__contacts_content__link">
+					<div class="footer__contacts_content__link_url">
+						<p><img src="images/skype-icon.png" alt=""><a href="skype:here_your_login_skype?call">here_your_login_skype</a>
+						</p>
+						<p><img src="images/icq-icon.png" alt=""><a href="icq:279679659">279679659</a></p>
+						<p><img src="images/email-icon.png" alt=""><a href="mailto:psdhtmlcss@mail.ru">psdhtmlcss@mail.ru</a>
+						</p>
+						<p><img src="images/phone-icon.png" alt=""><a href="tel:800045685555">80 00 4568 55 55</a></p>
+					</div>
+					<div class="footer__contacts_content__link_icons">
+						<a href="https://twitter.com/?lang=ru" target="_blank">
+							<i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
+						</a>
+						<a href="https://vk.com/" target="_blank">
+							<i class="fa fa-vk fa-2x"></i>
+						</a>
+						<a href="https://www.google.com/intl/ru/account/about/" target="_blank">
+							<i class="fa fa-google fa-2x"></i>
+						</a>
+						<a href="https://www.facebook.com/" target="_blank">
+							<i class="fa fa-facebook-f fa-2x"></i>
+						</a>
+					</div>
+				</div>
 			</div>
 		</div>
-		<div>
+		<div class="footer__copy">
 			<p>Copyright &copy; 2014 Product name · PSD HTML CSS</p>
 		</div>
 	</footer>
