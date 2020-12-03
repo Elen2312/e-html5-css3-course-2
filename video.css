@@ -1,3 +1,7 @@
+body {
+  overflow: hidden;
+}
+
 .trailer__video {
   position: absolute;
   width: 100%;

@@ -10,12 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8982f12-32e2-474c-b3aa-188fdbce246f" name="Default Changelist" comment="crating video page">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/video.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/video.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video.scss" beforeDir="false" afterPath="$PROJECT_DIR$/video.scss" afterDir="false" />
-    </list>
+    <list default="true" id="d8982f12-32e2-474c-b3aa-188fdbce246f" name="Default Changelist" comment="crating video page2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +60,7 @@
       <updated>1605965638253</updated>
       <workItem from="1605965639481" duration="11900000" />
       <workItem from="1605978280495" duration="16413000" />
-      <workItem from="1607009807679" duration="4106000" />
+      <workItem from="1607009807679" duration="4461000" />
     </task>
     <task id="LOCAL-00001" summary="crating video page">
       <created>1607013559466</created>
@@ -74,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607013559466</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="crating video page2">
+      <created>1607013996521</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607013996521</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,7 +96,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="crating video page" />
-    <option name="LAST_COMMIT_MESSAGE" value="crating video page" />
+    <MESSAGE value="crating video page2" />
+    <option name="LAST_COMMIT_MESSAGE" value="crating video page2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="47" key="#Inspections" timestamp="1605980578218">
@@ -113,18 +116,18 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1605978801256" />
-    <state x="544" y="281" key="Github.Dialog.Accounts.Choose" timestamp="1607013578229">
+    <state x="544" y="281" key="Github.Dialog.Accounts.Choose" timestamp="1607014005968">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="544" y="281" key="Github.Dialog.Accounts.Choose/0.0.1366.738@0.0.1366.738" timestamp="1607013578229" />
+    <state x="544" y="281" key="Github.Dialog.Accounts.Choose/0.0.1366.738@0.0.1366.738" timestamp="1607014005968" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1605978924355">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1605978924355" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1607013572913">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1607014002223">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1607013572913" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1607014002223" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1606753828670">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
